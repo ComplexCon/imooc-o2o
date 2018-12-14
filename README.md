@@ -12,3 +12,4 @@ SSM到Spring Boot从零开发校园商铺平台
 [6、商品类别模块](https://blog.csdn.net/tian330726/article/details/82808818)<br/>
 [7、商品模块](https://blog.csdn.net/tian330726/article/details/83933094)<br/>
 [8、前端页面模块](https://blog.csdn.net/tian330726/article/details/84649220)<br/>
+[9、阿里云部署](https://blog.csdn.net/tian330726/article/details/84996587)<br/>
